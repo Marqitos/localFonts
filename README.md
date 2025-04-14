@@ -13,3 +13,4 @@ Cada una de las fuentes suministradas tiene una licencia deferente de distribuci
 ## Lista de fuentes
 
 - Courier Prime (descargada de Google Fonts).
+  - [Licencia: SIL OPEN FONT LICENSE Version 1.1](/Marqitos/localFonts/blob/main/fonts/CourierPrime/OFL.txt)
