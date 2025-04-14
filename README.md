@@ -9,3 +9,7 @@ o por cualqueir motivo cambie el nombre del archivo a importar.
 Pongo a disposición varias fuentes para usar en sitios web de forma local.
 
 Cada una de las fuentes suministradas tiene una licencia deferente de distribución.
+
+## Lista de fuentes
+
+- Courier Prime (descargada de Google Fonts).
