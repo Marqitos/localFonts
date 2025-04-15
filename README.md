@@ -8,7 +8,7 @@ o por cualqueir motivo cambie el nombre del archivo a importar.
 
 Pongo a disposición varias fuentes para usar en sitios web de forma local.
 
-Cada una de las fuentes suministradas tiene una licencia deferente de distribución.
+Cada una de las fuentes suministradas tiene una licencia diferente de distribución.
 
 ## Lista de fuentes
 
@@ -16,3 +16,9 @@ Cada una de las fuentes suministradas tiene una licencia deferente de distribuci
   - [Licencia: SIL OPEN FONT LICENSE Version 1.1](/Marqitos/localFonts/blob/main/fonts/CourierPrime/OFL.txt)
 - Open Sans (descargada de Google Fonts).
   - [Licencia: SIL OPEN FONT LICENSE Version 1.1](https://github.com/Marqitos/localFonts/blob/main/fonts/OpenSans/OFL.txt)
+
+## Artículos relacionados
+
+- [Self-hosting web fonts](https://fonts.google.com/knowledge/using_type/self_hosting_web_fonts)
+- [Web font](https://fonts.google.com/knowledge/glossary/web_font)
+- [The Best Font Loading Strategies and How to Execute Them](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/#loading-fonts-with-self-hosted-fonts)
