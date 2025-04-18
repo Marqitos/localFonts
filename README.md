@@ -18,7 +18,9 @@ Cada una de las fuentes suministradas tiene una licencia diferente de distribuci
   - [Licencia: SIL OPEN FONT LICENSE Version 1.1](https://github.com/Marqitos/localFonts/blob/main/fonts/OpenSans/OFL.txt)
 - Grupo de fuentes Roboto
   - Roboto Slab (descargada de Google Fonts).
-    - [Apache License Version 2.0](https://github.com/Marqitos/localFonts/blob/main/fonts/RobotoSlab/LICENSE.txt)
+    - [Licencia: Apache Version 2.0](https://github.com/Marqitos/localFonts/blob/main/fonts/RobotoSlab/LICENSE.txt)
+- Font Awesome (v6.7.2)
+  - Licencia: Fuentes, SIL OPEN FONT LICENSE Version 1.1; Iconos, CREATIVE COMMONS BY 4.0
 
 ## Artículos relacionados
 
