@@ -4,7 +4,7 @@ A veces al cargar las fuentes desde [Google Fonts](https://fonts.google.com) o s
 el servidor externo añade cookies de seguimiento.
 
 Para evitar esto, y además de la posibilidad de que el sitio de donde obtenemos las fuentes esté caido,
-o por cualqueir motivo cambie el nombre del archivo a importar.
+o por cualquier motivo cambie el nombre del archivo a importar.
 
 Pongo a disposición varias fuentes para usar en sitios web de forma local.
 
@@ -20,7 +20,7 @@ Cada una de las fuentes suministradas tiene una licencia diferente de distribuci
   - Roboto Slab (descargada de Google Fonts).
     - [Licencia: Apache Version 2.0](https://github.com/Marqitos/localFonts/blob/main/fonts/RobotoSlab/LICENSE.txt)
 - Font Awesome (v6.7.2)
-  - Licencia: Fuentes, SIL OPEN FONT LICENSE Version 1.1; Iconos, CREATIVE COMMONS BY 4.0
+  - [Licencia: Fuentes, SIL OPEN FONT LICENSE Version 1.1; Iconos, CREATIVE COMMONS BY 4.0](https://github.com/Marqitos/localFonts/blob/main/local/FontAwesome/LICENSE.txt)
 
 ## Artículos relacionados
 
